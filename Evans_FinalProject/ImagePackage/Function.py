@@ -13,3 +13,5 @@ def load_image(filename):
     myimage = Image.open(filename)
     myimage.load()
     return myimage
+
+
