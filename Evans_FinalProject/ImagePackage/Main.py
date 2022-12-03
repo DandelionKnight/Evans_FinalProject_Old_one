@@ -9,5 +9,5 @@ Brief Description: This project demonstrates that I can use Eclipse to create a 
 '''
 from Function import *
 
-im = Image.open("Team Evans.jpg")
+im = Image.open("Team_Evans.jpg")
 im.show() 
